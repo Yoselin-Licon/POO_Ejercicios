@@ -16,6 +16,7 @@ public class Ejercicios_POO_gitHub {
      */
     public static void main(String[] args) {
         System.out.println("Hola soy Yoselin Licón :D ");
+        System.err.println("Bienvenido a mi código");
     }
     
 }
